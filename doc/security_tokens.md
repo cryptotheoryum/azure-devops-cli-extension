@@ -128,7 +128,7 @@ If the tokens have variable-length path parts, then a separator character is use
 
    Token format for project level permissions : 'repoV2/PROJECT_ID'
 
-   You need to append RepositoryID to update repo level permissions
+   You need to append RepositoryID to update repo level permissions.
 
    Token format for project level permissions : 'repoV2/PROJECT_ID/REPO_ID'
 
